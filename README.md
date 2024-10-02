@@ -4,6 +4,7 @@
 
 This project implements an AI-driven system to systematically analyze police response to illegal parking complaints in New York City. The code was used to conduct original research and resulted in the paper, [Eye in the Sky: Harnessing AI to Monitor Police Response to Illegal Parking Complaints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4974275). The study leverages publicly available traffic camera feeds and computer vision to detect illegal parking incidents, automatically file complaints through the [NYC 311](https://portal.311.nyc.gov/) system and quantify police response.
 
+![camera_examples](img/camera_examples.jpg)
 ### Key findings from the study include:
 
 - 52.15% of complaints were closed while vehicles were still illegally parked
