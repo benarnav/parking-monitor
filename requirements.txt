@@ -1,0 +1,7 @@
+torch==2.2.0
+torchvision==0.17.0
+ultralytics==8.1.9
+pillow==10.2.0
+requests==2.31.0
+selenium==4.17.2
+shapely==2.0.3
